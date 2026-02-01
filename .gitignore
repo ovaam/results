@@ -1,0 +1,7 @@
+# Screenshots and images
+*.png
+*.PNG
+
+# Large CSV files with experimental data (optional - uncomment if needed)
+# *.csv
+
